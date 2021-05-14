@@ -88,6 +88,7 @@
   * [\[十\]短暂的告别](knowledge/ren-min-jun/shi-duan-zan-de-gao-bie.md)
   * [\[六\]艾露妮·暗月备忘录（关于合并）（2006.11）](knowledge/ren-min-jun/liu-ai-lu-ni-an-yue-bei-wang-lu-guan-yu-he-bing-2006.11.md)
   * [现状调查（2011.08.15）：人民军](knowledge/ren-min-jun/xian-zhuang-tiao-cha-2011.08.15-ren-min-jun.md)
+  * [【给画中人的一封信】——兹彼希科](knowledge/ren-min-jun/gei-hua-zhong-ren-de-yi-feng-xin-ci-bi-xi-ke.md)
 * [鲜血与荣誉](knowledge/xian-xie-yu-rong-yu/README.md)
   * [第一章 林中的激战](knowledge/xian-xie-yu-rong-yu/di-yi-zhang-lin-zhong-de-ji-zhan.md)
   * [第二章 未解的谜团](knowledge/xian-xie-yu-rong-yu/di-er-zhang-wei-jie-de-mi-tuan.md)
