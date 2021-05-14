@@ -33,7 +33,7 @@
 
 * [最后的圣杯](report/zui-hou-de-sheng-bei/README.md)
   * [序 命运之轮](report/zui-hou-de-sheng-bei/xu-ming-yun-zhi-lun.md)
-  * [第零章 一个机会](report/zui-hou-de-sheng-bei/di-ling-zhang-yi-ge-ji-hui.md)
+  * [第零幕 一个机会](report/zui-hou-de-sheng-bei/di-ling-zhang-yi-ge-ji-hui.md)
   * [剧情物品](report/zui-hou-de-sheng-bei/ju-qing-wu-pin.md)
 * [黑色星期五](report/hei-se-xing-qi-wu/README.md)
   * [第一幕 骑士团的秘密](report/hei-se-xing-qi-wu/di-yi-mu-qi-shi-tuan-de-mi-mi.md)
