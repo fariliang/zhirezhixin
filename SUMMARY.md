@@ -90,6 +90,7 @@
   * [现状调查（2011.08.15）：人民军](knowledge/ren-min-jun/xian-zhuang-tiao-cha-2011.08.15-ren-min-jun.md)
   * [【给画中人的一封信】——兹彼希科](knowledge/ren-min-jun/gei-hua-zhong-ren-de-yi-feng-xin-ci-bi-xi-ke.md)
   * [人民军篇](knowledge/ren-min-jun/ren-min-jun-pian.md)
+  * [双刃——代号“兹彼希科”的秘密](knowledge/ren-min-jun/shuang-ren-dai-hao-ci-bi-xi-ke-de-mi-mi.md)
 * [鲜血与荣誉](knowledge/xian-xie-yu-rong-yu/README.md)
   * [第一章 林中的激战](knowledge/xian-xie-yu-rong-yu/di-yi-zhang-lin-zhong-de-ji-zhan.md)
   * [第二章 未解的谜团](knowledge/xian-xie-yu-rong-yu/di-er-zhang-wei-jie-de-mi-tuan.md)
