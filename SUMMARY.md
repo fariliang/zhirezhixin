@@ -80,6 +80,7 @@
 * [圣印祷文](knowledge/sheng-yin-dao-wen.md)
 * [巴老教你如何做到最基本的角色扮演](knowledge/ba-lao-jiao-ni-ru-he-zuo-dao-zui-ji-ben-de-jiao-se-ban-yan.md)
 * [炙热之心骑士团出处](knowledge/zhi-re-zhi-xin-qi-shi-tuan-chu-chu.md)
+* [与炙热之心骑士团创立同期的公会](knowledge/yu-zhi-re-zhi-xin-qi-shi-tuan-chuang-li-tong-qi-de-gong-hui.md)
 * [人民军](knowledge/ren-min-jun/README.md)
   * [\[一\]希科书记的记录本——人民军的军阶分工](knowledge/ren-min-jun/yi-xi-ke-shu-ji-de-ji-lu-ben-ren-min-jun-de-jun-jie-fen-gong.md)
   * [\[二\]人·民·英·雄·纪·念·碑](knowledge/ren-min-jun/er-ren-min-ying-xiong-ji-nian-bei.md)
