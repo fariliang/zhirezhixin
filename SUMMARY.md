@@ -47,6 +47,7 @@
 * [法瑞的冒险记录档案室](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/README.md)
   * [与阿西西修士谈到圣杯](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/yuexi-xi-xiu-shi-tan-dao-sheng-bei.md)
   * [炙热之心骑士团再临期间招募](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/zhi-re-zhi-xin-qi-shi-tuan-zai-lin-qi-jian-zhao-mu.md)
+  * [地狱之旅](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/di-yu-zhi-lv.md)
   * [丽萨的格斗训练](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/li-sa-de-ge-dou-xun-lian.md)
   * [扎塔娜的格斗训练](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/zha-ta-na-de-ge-dou-xun-lian.md)
   * [扎塔娜寻找帕拉斯的救赎](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/zha-ta-na-xun-zhao-pa-la-si-de-jiu-shu.md)
