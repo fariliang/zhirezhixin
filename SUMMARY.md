@@ -45,6 +45,7 @@
   * [第七幕 黑色星期五审判](report/hei-se-xing-qi-wu/di-qi-mu-hei-se-xing-qi-wu-shen-pan.md)
   * [第八幕 静默客](report/hei-se-xing-qi-wu/di-ba-mu-jing-mo-ke.md)
 * [法瑞的冒险记录档案室](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/README.md)
+  * [与阿西西修士谈到圣杯](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/yuexi-xi-xiu-shi-tan-dao-sheng-bei.md)
   * [炙热之心骑士团再临期间招募](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/zhi-re-zhi-xin-qi-shi-tuan-zai-lin-qi-jian-zhao-mu.md)
   * [丽萨的格斗训练](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/li-sa-de-ge-dou-xun-lian.md)
   * [扎塔娜的格斗训练](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/zha-ta-na-de-ge-dou-xun-lian.md)
