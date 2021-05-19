@@ -81,6 +81,7 @@
 ## 学识 <a id="knowledge"></a>
 
 * [圣印祷文](knowledge/sheng-yin-dao-wen.md)
+* [圣骑士角色扮演语句](knowledge/sheng-qi-shi-jiao-se-ban-yan-yu-ju.md)
 * [巴老教你如何做到最基本的角色扮演](knowledge/ba-lao-jiao-ni-ru-he-zuo-dao-zui-ji-ben-de-jiao-se-ban-yan.md)
 * [炙热之心骑士团出处](knowledge/zhi-re-zhi-xin-qi-shi-tuan-chu-chu.md)
 * [与炙热之心骑士团创立同期的公会](knowledge/yu-zhi-re-zhi-xin-qi-shi-tuan-chuang-li-tong-qi-de-gong-hui.md)
