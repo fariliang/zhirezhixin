@@ -10,7 +10,7 @@
 
 阵营：守序邪恶
 
-![&#x6731;&#x65AF;&#x63D0;&#x5C3C;&#x963F;&#x8BFA;](../.gitbook/assets/zhu-si-ti-nianuo-.jpg)
+![&#x6731;&#x65AF;&#x63D0;&#x5C3C;&#x963F;&#x8BFA;](../.gitbook/assets/zhu-si-ti-nianuo-.png)
 
 多年以后，当朱斯提尼阿诺再一次站在范德玛尔镇大门前，准会回想起黑门28年被遗忘者占领范德玛尔的那个夏天。
 
