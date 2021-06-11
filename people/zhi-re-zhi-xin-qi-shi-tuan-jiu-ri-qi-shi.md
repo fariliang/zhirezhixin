@@ -545,6 +545,8 @@
 
 ## 法瑞
 
+![Fari](../.gitbook/assets/fari.jpg)
+
 常用名：法瑞  
 全名：法瑞雅·图尔加斯（Farilla Tulkas）  
 家乡：洛丹伦的壁炉谷  
