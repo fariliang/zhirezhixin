@@ -76,7 +76,7 @@ xxx，
 
 所在地点：[炙热之心骑士团暴风城驻地](https://fari.gitbook.io/zhirezhixin/setting/zhi-re-zhi-xin-qi-shi-tuan-di-dian#zhi-re-zhi-xin-qi-shi-tuan-bao-feng-cheng-zhu-di)
 
-![](../../.gitbook/assets/sheng-bei-qi-shi-.jpg)
+![](../../.gitbook/assets/圣杯骑士.jpg)
 
 这是一张暗月马戏团的塔罗牌。
 
@@ -102,7 +102,7 @@ xxx，
 
 内容见：[圣杯](https://fari.gitbook.io/zhirezhixin/setting/zhi-re-zhi-xin-qi-shi-tuan-de-sheng-wu#sheng-bei)
 
-### 骑士评议会召集令
+### 骑士评议会召集令&#xD;
 
 xxx，
 
@@ -114,27 +114,26 @@ xxx，
 
 ## 第三幕 渔夫之主
 
-### 凯特琳丶安妮的家
+### 凯特琳丶安妮的家&#xD;
 
 其中有打斗痕迹
 
 佐伊不见了，在她位于艾尔文湖畔的住处，你发现了打斗痕迹。
 
-#### 地上的痕迹
+#### &#xD;地上的痕迹&#xD;
 
 地上有抓扯的痕迹，在地板的边角，柜子前面，你发现了一个很小的用手抠出来的L字。
 
-#### 翻倒的家具
+#### &#xD;翻倒的家具&#xD;
 
 家具和餐具都散落在地面，玻璃碎片，纸屑，甚至有一小块被扯下的红布。
 
-#### 墙上的血迹
+#### &#xD;墙上的血迹&#xD;
 
 有人在这场打斗中受伤了。
 
-### 渔夫之主的晚宴请柬
+### 渔夫之主的晚宴请柬&#xD;
 
 xxx，
 
 5月30日，于渔夫之主的宅邸——达伦德农场会举行一场例行晚宴。渔夫之主每周都会举行这样的晚宴，他在寻找什么呢？或许就是一个对的人。又有什么事常年困扰着渔夫之主呢？你要记得老学者诺亚的话，在晚宴上问问题是不礼貌的。
-

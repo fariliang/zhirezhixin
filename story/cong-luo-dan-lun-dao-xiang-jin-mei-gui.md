@@ -74,13 +74,13 @@
 >
 > L·M
 
-![&#x5E15;&#x62C9;&#x65AF;&#xB7;&#x5723;&#x5251;&#x7684;&#x4FE1;](../.gitbook/assets/pa-la-si-sheng-jian-de-xin-.jpg)
+![帕拉斯·圣剑的信](../.gitbook/assets/帕拉斯·圣剑的信.jpg)
 
-![&#x96F7;&#x8499;&#x5FB7;&#xB7;&#x9ED1;&#x5251;&#x7684;&#x4FE1;1](../.gitbook/assets/lei-meng-de-hei-jian-de-xin-1.jpg)
+![雷蒙德·黑剑的信1](../.gitbook/assets/雷蒙德·黑剑的信1.jpg)
 
-![&#x96F7;&#x8499;&#x5FB7;&#xB7;&#x9ED1;&#x5251;&#x7684;&#x4FE1;2](../.gitbook/assets/lei-meng-de-hei-jian-de-xin-2.jpg)
+![雷蒙德·黑剑的信2](../.gitbook/assets/雷蒙德·黑剑的信2.jpg)
 
-![&#x96F7;&#x8499;&#x5FB7;&#xB7;&#x9ED1;&#x5251;&#x7684;&#x4FE1;3](../.gitbook/assets/lei-meng-de-hei-jian-de-xin-3.jpg)
+![雷蒙德·黑剑的信3](../.gitbook/assets/雷蒙德·黑剑的信3.jpg)
 
 
 
@@ -112,11 +112,11 @@
 >
 > 佩森圣光
 
-![&#x4F69;&#x68EE;&#xB7;&#x5723;&#x5149;&#x7684;&#x4FE1;1](../.gitbook/assets/pei-sen-sheng-guang-de-xin-1.jpg)
+![佩森·圣光的信1](../.gitbook/assets/佩森·圣光的信1.jpg)
 
-![&#x4F69;&#x68EE;&#xB7;&#x5723;&#x5149;&#x7684;&#x4FE1;2](../.gitbook/assets/pei-sen-sheng-guang-de-xin-2.jpg)
+![佩森·圣光的信2](../.gitbook/assets/佩森·圣光的信2.jpg)
 
-![&#x4F69;&#x68EE;&#xB7;&#x5723;&#x5149;&#x7684;&#x4FE1;3](../.gitbook/assets/pei-sen-sheng-guang-de-xin-3.jpg)
+![佩森·圣光的信3](../.gitbook/assets/佩森·圣光的信3.jpg)
 
 我前往提尔之手调查死亡骑士出没的传闻。后由于对重获头颅的圣剑骑士不信任，以及，我对血色十字军的同情——按照帕拉斯的话说。雷蒙德黑剑接替了我的西瘟疫之地指挥官职务。我记不清，或许那时我的愤怒不只是转身离去。无论如何，我被要求暂时居住在镶金玫瑰旅店，放下武器和盔甲。期间帕拉斯寄给我一封信——
 
@@ -138,9 +138,9 @@
 
 “美德犹如香料”，不知道他从哪本书上看到这个比喻。但当一切过去，重新读到它，我还能闻到香味。或许只是旧纸卷里那种让人鼻子流涕，眼睛睁不开的气味。
 
-![&#x5DF4;&#x7EB3;&#x65AF;&#xB7;&#x5723;&#x5251;&#x7684;&#x4FE1;1](../.gitbook/assets/ba-na-si-sheng-jian-de-xin-1.jpg)
+![巴纳斯·圣剑的信1](../.gitbook/assets/巴纳斯·圣剑的信1.jpg)
 
-![&#x5DF4;&#x7EB3;&#x65AF;&#xB7;&#x5723;&#x5251;&#x7684;&#x4FE1;2](../.gitbook/assets/ba-na-si-sheng-jian-de-xin-2.jpg)
+![巴纳斯·圣剑的信2](../.gitbook/assets/巴纳斯·圣剑的信2.jpg)
 
 2012年
 
@@ -158,6 +158,5 @@
 
 我是法瑞·图尔加斯，如果你记得我的名，如果你能写信给其他当年的战友。噢，如果你能写信给银月骑士索拉，告诉他我很感谢他当年护送我离开布瑞尔。写信给他们，告诉他们我在收集传说和手稿。无论我是继续留在北郡修道院，还是回到北方。洛丹伦从死的灰烬里醒来，炙热之心骑士团的旧愿已成，修道院的生活也让我不再渴望利剑和血……我只希望过去的故事不遗失在风中。
 
-你的，  
+你的，\
 法瑞·图尔加斯
-
