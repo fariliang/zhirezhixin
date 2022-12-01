@@ -31,6 +31,7 @@
 
 ## 战报 <a href="#report" id="report"></a>
 
+* [长夜](report/chang-ye.md)
 * [最后的圣杯](report/zui-hou-de-sheng-bei/README.md)
   * [序 命运之轮](report/zui-hou-de-sheng-bei/xu-ming-yun-zhi-lun.md)
   * [第零幕 一个机会](report/zui-hou-de-sheng-bei/di-ling-zhang-yi-ge-ji-hui.md)
