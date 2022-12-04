@@ -16,8 +16,8 @@ description: Long Night
 
 ### 故事
 
-{% content-ref url="../story/chang-ye.md" %}
-[chang-ye.md](../story/chang-ye.md)
+{% content-ref url="../story/chang-ye-huo-di-er-zhi-dong.md" %}
+[chang-ye-huo-di-er-zhi-dong.md](../story/chang-ye-huo-di-er-zhi-dong.md)
 {% endcontent-ref %}
 
 ### 战报

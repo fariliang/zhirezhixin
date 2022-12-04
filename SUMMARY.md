@@ -71,7 +71,7 @@
 
 ## 故事 <a href="#story" id="story"></a>
 
-* [长夜](story/chang-ye.md)
+* [长夜：霍迪尔之冬](story/chang-ye-huo-di-er-zhi-dong.md)
 * [矮人圣骑士红胡子菲特烈终于苏醒了](story/ai-ren-sheng-qi-shi-hong-hu-zi-fei-te-lie-zhong-yu-su-xing-le.md)
 * [从洛丹伦到镶金玫瑰](story/cong-luo-dan-lun-dao-xiang-jin-mei-gui.md)
 * [帕拉斯圣剑的告别](story/pa-la-si-sheng-jian-de-gao-bie.md)
