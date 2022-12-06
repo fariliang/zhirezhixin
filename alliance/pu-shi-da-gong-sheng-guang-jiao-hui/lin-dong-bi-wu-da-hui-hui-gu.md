@@ -34,7 +34,7 @@ description: 2020年
 
 <figure><img src="../../.gitbook/assets/凛冬比武大赛场地.png" alt=""><figcaption></figcaption></figure>
 
-规则：
+### 规则：
 
 在游戏中想参加和体验这一模式需要前往冰冠冰川银色比武场，在银色北伐军的大帐门口找到裁决者玛蕾尔·图哈特，来完成一系列任务，将可以解锁银色锦标赛的骑马模式。
 
@@ -46,7 +46,7 @@ description: 2020年
 
 <figure><img src="../../.gitbook/assets/凛冬比武大赛3.png" alt=""><figcaption></figcaption></figure>
 
-作战技能：
+### 作战技能：
 
 当骑上该模式下的坐骑后，技能栏会转变为6个技能，分别技能为1刺击、2碎盾、3冲锋、4防御、5治疗坐骑、6决斗。
 

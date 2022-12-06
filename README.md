@@ -36,3 +36,7 @@ description: 为了失落的洛丹伦的荣耀！
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
