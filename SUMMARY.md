@@ -92,6 +92,7 @@
   * [艾尔文往事：格温内德之乱与玛塔尔的兴衰](alliance/pu-shi-da-gong-sheng-guang-jiao-hui/ai-er-wen-wang-shi-ge-wen-nei-de-zhi-luan-yu-ma-ta-er-de-xing-shuai.md)
   * [艾尔文往事：圣瓦尔古兰山城堡](alliance/pu-shi-da-gong-sheng-guang-jiao-hui/ai-er-wen-wang-shi-sheng-wa-er-gu-lan-shan-cheng-bao.md)
   * [艾尔文往事：李德骑士](alliance/pu-shi-da-gong-sheng-guang-jiao-hui/ai-er-wen-wang-shi-li-de-qi-shi.md)
+  * [冬幕比武大会](alliance/pu-shi-da-gong-sheng-guang-jiao-hui/dong-mu-bi-wu-da-hui.md)
 
 ## 学识 <a href="#knowledge" id="knowledge"></a>
 
