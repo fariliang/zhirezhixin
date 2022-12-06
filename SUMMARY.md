@@ -86,6 +86,13 @@
 * [炙热之心骑士团的圣物](setting/zhi-re-zhi-xin-qi-shi-tuan-de-sheng-wu.md)
 * [炙热之心骑士团地点](setting/zhi-re-zhi-xin-qi-shi-tuan-di-dian.md)
 
+## 联盟 <a href="#alliance" id="alliance"></a>
+
+* [普世大公圣光教会](alliance/pu-shi-da-gong-sheng-guang-jiao-hui/README.md)
+  * [艾尔文往事：格温内德之乱与玛塔尔的兴衰](alliance/pu-shi-da-gong-sheng-guang-jiao-hui/ai-er-wen-wang-shi-ge-wen-nei-de-zhi-luan-yu-ma-ta-er-de-xing-shuai.md)
+  * [艾尔文往事：圣瓦尔古兰山城堡](alliance/pu-shi-da-gong-sheng-guang-jiao-hui/ai-er-wen-wang-shi-sheng-wa-er-gu-lan-shan-cheng-bao.md)
+  * [艾尔文往事：李德骑士](alliance/pu-shi-da-gong-sheng-guang-jiao-hui/ai-er-wen-wang-shi-li-de-qi-shi.md)
+
 ## 学识 <a href="#knowledge" id="knowledge"></a>
 
 * [圣印祷文](knowledge/sheng-yin-dao-wen.md)
