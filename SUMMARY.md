@@ -52,6 +52,7 @@
   * [第七幕 黑色星期五审判](report/hei-se-xing-qi-wu/di-qi-mu-hei-se-xing-qi-wu-shen-pan.md)
   * [第八幕 静默客](report/hei-se-xing-qi-wu/di-ba-mu-jing-mo-ke.md)
 * [法瑞的冒险记录档案室](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/README.md)
+  * [偶遇富尔克·潘恩](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/ou-yu-fu-er-ke-pan-en.md)
   * [朱丝缇雅晋升光明骑士](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/zhu-si-ti-ya-jin-sheng-guang-ming-qi-shi.md)
   * [与阿西西修士谈到圣杯](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/yuexi-xi-xiu-shi-tan-dao-sheng-bei.md)
   * [炙热之心骑士团再临期间招募](report/fa-rui-de-mao-xian-ji-lu-dang-an-shi/zhi-re-zhi-xin-qi-shi-tuan-zai-lin-qi-jian-zhao-mu.md)
