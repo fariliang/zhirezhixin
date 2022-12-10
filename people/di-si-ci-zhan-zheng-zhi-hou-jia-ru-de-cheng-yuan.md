@@ -266,5 +266,7 @@
 
 洛丹伦人。来自斯坦索姆郊外。
 
+<figure><img src="../.gitbook/assets/凯东·费尔康.jpg" alt=""><figcaption></figcaption></figure>
+
 
 

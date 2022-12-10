@@ -34,7 +34,7 @@ ORDER OF THE RADIANT HEART
 
 ### 著名成员
 
-![凯东·费尔康](../.gitbook/assets/凯东·费尔康.jpg)
+![凯东·费尔康](<../.gitbook/assets/凯东·费尔康 (1).jpg>)
 
 凯东·费尔康（Keldorn Firecam）
 
