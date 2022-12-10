@@ -4,7 +4,7 @@ description: Long Night
 
 # 长夜
 
-<figure><img src="../.gitbook/assets/长夜-海报.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/长夜-海报.jpg" alt=""><figcaption></figcaption></figure>
 
 “最后一个月的时间，如果你们没能成功，就是血肉文明的末日。” ——拉夏，太阳的造物
 
@@ -16,8 +16,8 @@ description: Long Night
 
 ### 故事
 
-{% content-ref url="../story/chang-ye-huo-di-er-zhi-dong.md" %}
-[chang-ye-huo-di-er-zhi-dong.md](../story/chang-ye-huo-di-er-zhi-dong.md)
+{% content-ref url="../../story/chang-ye-huo-di-er-zhi-dong.md" %}
+[chang-ye-huo-di-er-zhi-dong.md](../../story/chang-ye-huo-di-er-zhi-dong.md)
 {% endcontent-ref %}
 
 ### 战报
