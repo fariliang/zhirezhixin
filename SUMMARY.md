@@ -32,7 +32,8 @@
 ## 战报 <a href="#report" id="report"></a>
 
 * [长夜](report/chang-ye/README.md)
-  * [第一幕 霍迪尔之冬（记录）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong-ji-lu.md)
+  * [第一幕 霍迪尔之冬（记录）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong.md)
+  * [第一幕 霍迪尔之冬（战报）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong-zhan-bao.md)
 * [最后的圣杯](report/zui-hou-de-sheng-bei/README.md)
   * [序 命运之轮](report/zui-hou-de-sheng-bei/xu-ming-yun-zhi-lun.md)
   * [第零幕 一个机会](report/zui-hou-de-sheng-bei/di-ling-zhang-yi-ge-ji-hui.md)
