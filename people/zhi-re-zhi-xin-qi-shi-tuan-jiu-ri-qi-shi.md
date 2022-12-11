@@ -549,6 +549,8 @@
 
 <figure><img src="../.gitbook/assets/法瑞雅-暗色.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/song_Fari.jpg" alt=""><figcaption></figcaption></figure>
+
 常用名：法瑞\
 全名：法瑞雅·图尔加斯（Farilla Tulkas）\
 家乡：洛丹伦的壁炉谷\
