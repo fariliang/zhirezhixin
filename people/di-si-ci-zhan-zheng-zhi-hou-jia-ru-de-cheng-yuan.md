@@ -12,6 +12,8 @@
 
 ![朱斯提尼阿诺](../.gitbook/assets/朱斯提尼阿诺.png)
 
+<figure><img src="../.gitbook/assets/Fari_30_years_old_Scarlet_Crusade_prosecutor_male_gray_hair_bea_f658637d-2bd0-4393-8ae4-7ce3777a9f66.png" alt=""><figcaption></figcaption></figure>
+
 多年以后，当朱斯提尼阿诺再一次站在范德玛尔镇大门前，准会回想起黑门28年被遗忘者占领范德玛尔的那个夏天。
 
 我又一次从噩梦中惊醒。在梦中，那个戴着检察官帽的高大男人握着圣典站在市政厅门口对着他们演讲；我与书记员只是象征性地站在一边。
@@ -55,6 +57,8 @@
 ## 佐伊·莱诺林
 
 ![佐伊·莱诺林](../.gitbook/assets/佐伊.jpg)
+
+<figure><img src="../.gitbook/assets/Fari_paladin_female_warcraft_brown_eyes_37661222-61aa-48d0-ba86-973d7b0076bb.png" alt=""><figcaption></figcaption></figure>
 
 1、角色的父母是谁？角色是否由他们抚养成人？如果不是的话是因为什么原因？如果不是的话又是由谁抚养的？
 
@@ -153,6 +157,10 @@
 阵营：混乱善良
 
 ![朱丝缇娅](../.gitbook/assets/朱丝缇娅.jpg)
+
+<figure><img src="../.gitbook/assets/Fari_mage_female_white_robe_black_curly_hair_long_hair_purple_e_9c3ac3f9-ba54-486c-8cbf-201700072d07.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Fari_mage_female_white_robe_black_curly_hair_long_hair_purple_e_2cf7b917-b294-47a6-a82f-48e9030e7d62.png" alt=""><figcaption></figcaption></figure>
 
 生平
 
@@ -267,6 +275,8 @@
 洛丹伦人。来自斯坦索姆郊外。
 
 <figure><img src="../.gitbook/assets/凯东·费尔康.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Fari_paladin_male_dark_eyes_grey_hair_a58331fa-92fe-459f-9db3-3a486c1e40cf.png" alt=""><figcaption></figcaption></figure>
 
 
 
