@@ -12,7 +12,7 @@
 
 ![朱斯提尼阿诺](../.gitbook/assets/朱斯提尼阿诺.png)
 
-<figure><img src="../.gitbook/assets/Fari_30_years_old_Scarlet_Crusade_prosecutor_male_gray_hair_bea_f658637d-2bd0-4393-8ae4-7ce3777a9f66.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Fari_young_male_3_day_stubble_beard_grey_hair_inquisitor_human__be83d140-05d9-4656-96f9-e6ae34f48b13.png" alt=""><figcaption></figcaption></figure>
 
 多年以后，当朱斯提尼阿诺再一次站在范德玛尔镇大门前，准会回想起黑门28年被遗忘者占领范德玛尔的那个夏天。
 
@@ -58,7 +58,7 @@
 
 ![佐伊·莱诺林](../.gitbook/assets/佐伊.jpg)
 
-<figure><img src="../.gitbook/assets/Fari_paladin_female_warcraft_brown_eyes_37661222-61aa-48d0-ba86-973d7b0076bb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Fari_paladin_dark_eyes_female_Linen_hair_long_hair_human_holy_l_4a0e4f98-3b63-43b8-a4d9-c9ca36536cc2.png" alt=""><figcaption></figcaption></figure>
 
 1、角色的父母是谁？角色是否由他们抚养成人？如果不是的话是因为什么原因？如果不是的话又是由谁抚养的？
 
@@ -276,7 +276,12 @@
 
 <figure><img src="../.gitbook/assets/凯东·费尔康.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Fari_paladin_male_dark_eyes_grey_hair_a58331fa-92fe-459f-9db3-3a486c1e40cf.png" alt=""><figcaption></figcaption></figure>
+<div>
 
+<figure><img src="../.gitbook/assets/Fari_young_male_mustache_grey_hair_paladin_human_scarlet_crusad_375d44f6-c4c6-42e9-9680-d43b04183942.png" alt=""><figcaption></figcaption></figure>
 
+ 
 
+<figure><img src="../.gitbook/assets/Fari_young_male_mustache_grey_hair_paladin_human_scarlet_crusad_f773e151-f39b-4280-9cd5-ee5e3addca66.png" alt=""><figcaption></figcaption></figure>
+
+</div>
