@@ -75,6 +75,7 @@
 
 ## 故事 <a href="#story" id="story"></a>
 
+* [牺牲](story/xi-sheng.md)
 * [回家](story/hui-jia.md)
 * [长夜：霍迪尔之冬](story/chang-ye-huo-di-er-zhi-dong.md)
 * [矮人圣骑士红胡子菲特烈终于苏醒了](story/ai-ren-sheng-qi-shi-hong-hu-zi-fei-te-lie-zhong-yu-su-xing-le.md)
