@@ -35,6 +35,7 @@
   * [第一幕 霍迪尔之冬（记录）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong.md)
   * [第一幕 霍迪尔之冬（战报）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong-zhan-bao.md)
   * [第二幕 铁炉堡避难（记录）](report/chang-ye/di-er-mu-tie-lu-bao-bi-nan-ji-lu.md)
+  * [第三幕 长途跋涉（记录）](report/chang-ye/di-san-mu-chang-tu-ba-she-ji-lu.md)
 * [最后的圣杯](report/zui-hou-de-sheng-bei/README.md)
   * [序 命运之轮](report/zui-hou-de-sheng-bei/xu-ming-yun-zhi-lun.md)
   * [第零幕 一个机会](report/zui-hou-de-sheng-bei/di-ling-zhang-yi-ge-ji-hui.md)
