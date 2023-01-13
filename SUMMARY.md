@@ -37,6 +37,7 @@
   * [第二幕 铁炉堡避难（记录）](report/chang-ye/di-er-mu-tie-lu-bao-bi-nan-ji-lu.md)
   * [第三幕 长途跋涉（记录）](report/chang-ye/di-san-mu-chang-tu-ba-she-ji-lu.md)
   * [第四幕 去往寒冰神殿（记录）](report/chang-ye/di-si-mu-qu-wang-han-bing-shen-dian-ji-lu.md)
+  * [第五幕 奥杜尔调查（记录）](report/chang-ye/di-wu-mu-ao-du-er-tiao-cha-ji-lu.md)
 * [最后的圣杯](report/zui-hou-de-sheng-bei/README.md)
   * [序 命运之轮](report/zui-hou-de-sheng-bei/xu-ming-yun-zhi-lun.md)
   * [第零幕 一个机会](report/zui-hou-de-sheng-bei/di-ling-zhang-yi-ge-ji-hui.md)
