@@ -39,6 +39,7 @@
   * [第五幕 奥杜尔调查（记录）](report/chang-ye/di-wu-mu-ao-du-er-tiao-cha-ji-lu.md)
   * [第六幕 回到暴风王国（记录）](report/chang-ye/di-liu-mu-hui-dao-bao-feng-wang-guo-ji-lu.md)
   * [第七幕 步行矿道地铁（记录）](report/chang-ye/di-qi-mu-bu-hang-kuang-dao-di-tie-ji-lu.md)
+  * [第八幕 奥丹姆之行（记录）](report/chang-ye/di-ba-mu-ao-dan-mu-zhi-hang-ji-lu.md)
   * [第一幕 霍迪尔之冬（战报）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong-zhan-bao.md)
   * [第二幕 铁炉堡避难（战报）](report/chang-ye/di-er-mu-tie-lu-bao-bi-nan-zhan-bao.md)
 * [最后的圣杯](report/zui-hou-de-sheng-bei/README.md)
