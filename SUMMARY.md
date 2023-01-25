@@ -38,6 +38,7 @@
   * [第三幕 长途跋涉（记录）](report/chang-ye/di-san-mu-chang-tu-ba-she-ji-lu.md)
   * [第四幕 去往寒冰神殿（记录）](report/chang-ye/di-si-mu-qu-wang-han-bing-shen-dian-ji-lu.md)
   * [第五幕 奥杜尔调查（记录）](report/chang-ye/di-wu-mu-ao-du-er-tiao-cha-ji-lu.md)
+  * [第六幕 回到暴风王国（记录）](report/chang-ye/di-liu-mu-hui-dao-bao-feng-wang-guo-ji-lu.md)
 * [最后的圣杯](report/zui-hou-de-sheng-bei/README.md)
   * [序 命运之轮](report/zui-hou-de-sheng-bei/xu-ming-yun-zhi-lun.md)
   * [第零幕 一个机会](report/zui-hou-de-sheng-bei/di-ling-zhang-yi-ge-ji-hui.md)
