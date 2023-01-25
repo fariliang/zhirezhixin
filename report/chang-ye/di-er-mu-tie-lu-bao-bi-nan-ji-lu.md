@@ -21,7 +21,7 @@
 \[法瑞雅]: 布莱恩，我们确实需要你的帮助。\
 布赖恩铜须 惊讶的跳起来
 
-<figure><img src="../../.gitbook/assets/QQ图片20221230211900.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/QQ图片20221230211900 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 \[布赖恩铜须]: 你们居然发现我了\
 \[布赖恩铜须]: 如果你们还能找到我\
@@ -65,7 +65,7 @@
 \[法瑞雅]: 会说话的瓶子\
 \[莱斯文丶灰鬓]: 给我下来
 
-<figure><img src="../../.gitbook/assets/WoWScrnShot_123022_200238.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WoWScrnShot_123022_200238 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 \[布赖恩铜须]: 哎哟\
 \[莱斯文丶灰鬓]: 疼吗？\
@@ -180,7 +180,7 @@
 \[莱斯文丶灰鬓]: 果然！\
 \[莱斯文丶灰鬓]: 你把我惹急了！
 
-<figure><img src="../../.gitbook/assets/WoWScrnShot_123022_202900.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WoWScrnShot_123022_202900 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 \[法瑞雅]: 这件展品……\
 \[莱斯文丶灰鬓]: 这是矮人王吗？\
@@ -234,7 +234,7 @@
 \[布赖恩铜须]: 下来\
 \[布赖恩铜须]: 哦，外人
 
-<figure><img src="../../.gitbook/assets/WoWScrnShot_123022_204413.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WoWScrnShot_123022_204413 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 朱斯提尼阿诺 将马拴在树边\
 \[布赖恩铜须]: 看来\
@@ -273,7 +273,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/WoWScrnShot_123022_211145.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WoWScrnShot_123022_211145 (1).jpg" alt=""><figcaption></figcaption></figure>
 
  
 

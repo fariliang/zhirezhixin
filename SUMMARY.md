@@ -35,6 +35,7 @@
   * [第一幕 霍迪尔之冬（记录）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong.md)
   * [第一幕 霍迪尔之冬（战报）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong-zhan-bao.md)
   * [第二幕 铁炉堡避难（记录）](report/chang-ye/di-er-mu-tie-lu-bao-bi-nan-ji-lu.md)
+  * [第二幕 铁炉堡避难（战报）](report/chang-ye/di-er-mu-tie-lu-bao-bi-nan-zhan-bao.md)
   * [第三幕 长途跋涉（记录）](report/chang-ye/di-san-mu-chang-tu-ba-she-ji-lu.md)
   * [第四幕 去往寒冰神殿（记录）](report/chang-ye/di-si-mu-qu-wang-han-bing-shen-dian-ji-lu.md)
   * [第五幕 奥杜尔调查（记录）](report/chang-ye/di-wu-mu-ao-du-er-tiao-cha-ji-lu.md)
