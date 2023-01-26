@@ -43,6 +43,7 @@
   * [第九幕 世界的末时（记录）](report/chang-ye/di-jiu-mu-shi-jie-de-mo-shi-ji-lu.md)
   * [第一幕 霍迪尔之冬（战报）](report/chang-ye/di-yi-mu-huo-di-er-zhi-dong-zhan-bao.md)
   * [第二幕 铁炉堡避难（战报）](report/chang-ye/di-er-mu-tie-lu-bao-bi-nan-zhan-bao.md)
+  * [第三幕 长途跋涉（战报）](report/chang-ye/di-san-mu-chang-tu-ba-she-zhan-bao.md)
 * [最后的圣杯](report/zui-hou-de-sheng-bei/README.md)
   * [序 命运之轮](report/zui-hou-de-sheng-bei/xu-ming-yun-zhi-lun.md)
   * [第零幕 一个机会](report/zui-hou-de-sheng-bei/di-ling-zhang-yi-ge-ji-hui.md)
